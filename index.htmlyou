@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 48px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      background: white;
+    }
+  </style>
+</head>
+<body>
+고마워
+</body>
+</html>
